@@ -77,13 +77,14 @@ This section presents the **performance comparison** of different **Support Vect
 To help visualize model performance, below are the **confusion matrices** for each model:
 
 ### Confusion Matrix (Linear Kernel)
-![Confusion Matrix Linear](images/conf_matrix_linear.png)
+![image](https://github.com/user-attachments/assets/177e0a02-6d57-4f04-93ca-dbda2bf58c90)
+
 
 ### Confusion Matrix (RBF Kernel)
-![Confusion Matrix RBF](images/conf_matrix_rbf.png)
+![image](https://github.com/user-attachments/assets/0548439d-1af3-44bd-9328-7b09338c591c)
 
 ### Confusion Matrix (NTK Kernel)
-![Confusion Matrix NTK](images/conf_matrix_ntk.png)
+![image](https://github.com/user-attachments/assets/cc3bc075-f691-409d-8f73-7d62632a37a9)
 
 ---
 
