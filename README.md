@@ -17,3 +17,11 @@ By leveraging NTK, which models the behavior of infinitely wide neural networks,
 - Provides improved fault detection for industrial applications
 
 ## 📂 Project Structure
+- `data/`: Contains datasets.
+- `notebooks/`: Jupyter Notebooks for analysis.
+
+## Setup Instructions
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Wjha2/Ball-Bearing-Fault-Prediction-using-SVM-and-NTK.git
+   cd Ball-Bearing-Fault-Prediction-using-SVM-and-NTK
