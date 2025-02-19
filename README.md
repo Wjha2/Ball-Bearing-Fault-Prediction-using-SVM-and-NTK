@@ -1,0 +1,1 @@
+# Ball-Bearing-Fault-Prediction-using-SVM-and-NTK
